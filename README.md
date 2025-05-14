@@ -1,8 +1,3 @@
-# Real-Estate-Price-Prediction
-Here's a professional and detailed `README.md` file for your **Real Estate Price Prediction** project, ideal for GitHub:
-
----
-
 # 🏡 Real Estate Price Prediction - Mumbai Region
 
 This project focuses on predicting real estate prices in Mumbai using data sourced from **99acres.com**. After performing thorough data cleaning and transformation, multiple regression models were implemented and evaluated to find the best predictor.
@@ -94,8 +89,4 @@ Real-Estate-Price-Prediction/
 
 ## 📬 Contact
 
-If you have questions or feedback, feel free to reach out via GitHub issues or connect with me on [LinkedIn](#).
-
----
-
-Would you like me to create a `requirements.txt` file for you as well?
+If you have questions or feedback, feel free to reach out via GitHub issues 
